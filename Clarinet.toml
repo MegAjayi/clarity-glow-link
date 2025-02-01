@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/glow-link.clar"
 depends_on = []
 
+[contracts.products]
+path = "contracts/products.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
